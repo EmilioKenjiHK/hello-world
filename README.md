@@ -1,6 +1,6 @@
-# hello-world (Emilio Kenji Hernández Kuramata 201902017)
+# Titulo actualizado: (Emilio Kenji Hernández Kuramata 201902017)
 
-Un repositorio para empezar a usar Github y Github Actions con Java
+Este repositorio ha sido actualizado directamente desde GitHub.
 
 ## ¿Como probar en el cloud?
 
